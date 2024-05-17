@@ -1,0 +1,14 @@
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+
+build
+coverage
+docker
+
+.dockerignore
+azure-pipelines.yml
+localhost-key.pem
+localhost.pem
+README.md
